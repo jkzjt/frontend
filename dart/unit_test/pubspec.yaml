@@ -2,3 +2,6 @@ name: unit_test
 
 dev_dependencies:
   test:
+
+environment:
+  sdk: '^3.0.0-290.0.dev'
