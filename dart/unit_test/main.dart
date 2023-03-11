@@ -10,7 +10,7 @@ int getSumOfArray(List<int> arr){
 
 void main(){
 	test('test for getSumOfArray', (){
-		int expectedValue = 15;
+		int expectedValue = 49;
 		int actualValue = getSumOfArray([1, 2, 3, 4, 5]);
 		expect(expectedValue, actualValue);
 	});
